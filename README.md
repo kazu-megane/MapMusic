@@ -7,5 +7,6 @@
 その住所にちなんだ音楽も再生することができる．
 
 ※なおデータベースにはPostgresSQLを使用しているためそのデータベースがないと実行できない  
-※BasicPlayerのライブラリが必要（http://www.javazoom.net/jlgui/api.html）  
+※BasicPlayerのライブラリが必要 http://www.javazoom.net/jlgui/api.html  
+
 
