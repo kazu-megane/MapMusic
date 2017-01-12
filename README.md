@@ -6,5 +6,6 @@
 このレポジトリにあるMapMusic.javaを実行し、住所を検索することができる．
 その住所にちなんだ音楽も再生することができる．
 
-※なおデータベースにはPostgresSQLを使用しているためそのデータベースがないと実行できない
+※なおデータベースにはPostgresSQLを使用しているためそのデータベースがないと実行できない  
+※BasicPlayerのライブラリが必要（http://www.javazoom.net/jlgui/api.html）  
 
